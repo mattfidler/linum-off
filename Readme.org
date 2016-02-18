@@ -6,7 +6,7 @@ modes.
 To use, put this in your =.emacs= or =.emacs.d/init.el=
 
 #+BEGIN_SRC emacs-lisp
-(reqiure 'linum-off)
+(require 'linum-off)
 #+END_SRC
 
 You can change what modes are ignored in the
